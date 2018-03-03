@@ -1,0 +1,3 @@
+<!ELEMENT таблица (студент, отметка)>
+<!ELEMENT студент (#PCDATA)>
+<!ELEMENT отметка (#PCDATA)>

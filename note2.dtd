@@ -1,0 +1,3 @@
+<!ELEMENT myportfolio (mycompetencies, competency)>
+<!ELEMENT mycompetencies (#PCDATA)>
+<!ELEMENT competency (#PCDATA)>

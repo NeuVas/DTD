@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT stats (most-freq-ip,platforms,ips)>
+<!ELEMENT most-freq-ip (ip)>
+<!ELEMENT platforms (system*)>
+<!ELEMENT system (#PCDATA)>
+<!ATTLIST system name CDATA #REQUIRED>
+<!ELEMENT ips (ip)+>
+<!ELEMENT ip EMPTY>
+<!ATTLIST ip addr CDATA #REQUIRED>
+<!ATTLIST ip frequency CDATA #REQUIRED>

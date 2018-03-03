@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE stats PUBLIC "Neudachin" "https://kodaktor.ru/?!=dtd_292a1">
+<stats>
+	<most-freq-ip>
+		<ip addr="077.234.203.101" frequency="12"/>
+	</most-freq-ip>
+	<platforms>
+		<system name="Windows">87</system>
+		<system name="Linux">8</system>
+		<system name="MacOS">6</system>
+		<system name="Android">10</system>
+		<system name= "IOS">6</system>
+	</platforms>
+    <ips>
+        <ip addr="077.234.203.101" frequency="12"/>
+        <ip addr="005.144.096.251" frequency="11"/>
+        <ip addr="081.222.086.058" frequency="6"/>
+        <ip addr="094.019.018.060" frequency="4"/>
+        <ip addr="005.164.066.173" frequency="4"/>
+    </ips>
+</stats>
